@@ -9,10 +9,9 @@
     <!--[if lt IE 9]>
     <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
     <![endif]-->
-  </head>
-  <body>
-	<script type="text/javascript">
+    	<script type="text/javascript">
 <!--
+function reload() {
 var lang = window.navigator.languages ? window.navigator.languages[0] : null;
     lang = lang || window.navigator.language || window.navigator.browserLanguage || window.navigator.userLanguage;
 if (lang.indexOf('-') !== -1)
@@ -21,14 +20,16 @@ if (lang.indexOf('-') !== -1)
 if (lang.indexOf('_') !== -1)
     lang = lang.split('_')[0];
 var location = 'http://ronkeinan.com/en/';
-alert(lang);
 if (lang == 'de')
 {
 location = 'http://ronkeinan.com/de/';
 } 
 window.location = location;
+}
 -->
 </script>
+  </head>
+  <body onload="reload()">
 <noscript>
 <h4>Please select a Language:</h4>
 <p><a href="http://ronkeinan.com/en/">English</a><br />
