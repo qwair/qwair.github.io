@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  
+  <url>
+    <loc>http://ronkeinan.com/en/</loc>
+  <xhtml:link 
+                 rel="alternate"
+                 hreflang="de"
+                 href="http://www.ronkeinan.com/de/"
+                 />
+  </url>
+  
+  <url>
+    <loc>http://ronkeinan.com/en/audio/audio/</loc>
+      <xhtml:link 
+                 rel="alternate"
+                 hreflang="de"
+                 href="http://www.ronkeinan.com/de/audio/audio/"
+                 />
+  </url>
+  
+  <url>
+    <loc>http://ronkeinan.com/en/contact/</loc>
+          <xhtml:link 
+                 rel="alternate"
+                 hreflang="de"
+                 href="http://www.ronkeinan.com/de/kontakt/"
+                 />
+  </url>
+  
+  <url>
+    <loc>http://ronkeinan.com/en/credits/</loc>
+              <xhtml:link 
+                 rel="alternate"
+                 hreflang="de"
+                 href="http://www.ronkeinan.com/de/projekte/"
+                 />
+  </url>
+  
+  <url>
+    <loc>http://ronkeinan.com/en/datenschutzerklaerung/</loc>
+              <xhtml:link 
+                 rel="alternate"
+                 hreflang="de"
+                 href="http://www.ronkeinan.com/de/datenschutzerklaerung/"
+                 />
+  </url>
+  
+  <url>
+    <loc>http://ronkeinan.com/en/impressum/</loc>
+                  <xhtml:link 
+                 rel="alternate"
+                 hreflang="de"
+                 href="http://www.ronkeinan.com/de/impressum/"
+                 />
+  </url>
+  
+
+  <url>
+    <loc>http://ronkeinan.com/en/video/video/</loc>
+                  <xhtml:link 
+                 rel="alternate"
+                 hreflang="de"
+                 href="http://www.ronkeinan.com/de/video/video/"
+                 />
+  </url>
+  
+</urlset>
