@@ -1,68 +1,40 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://ronkeinan.com/en/</loc>
-  <xhtml:link 
-                 rel="alternate"
-                 hreflang="de"
-                 href="http://www.ronkeinan.com/de/"
-                 />
+    <loc>http://ronkeinan.com/de/</loc>
   </url>
   
   <url>
-    <loc>http://ronkeinan.com/en/audio/audio/</loc>
-      <xhtml:link 
-                 rel="alternate"
-                 hreflang="de"
-                 href="http://www.ronkeinan.com/de/audio/audio/"
-                 />
+    <loc>http://ronkeinan.com/de/audio/audio/</loc>
   </url>
   
   <url>
-    <loc>http://ronkeinan.com/en/contact/</loc>
-          <xhtml:link 
-                 rel="alternate"
-                 hreflang="de"
-                 href="http://www.ronkeinan.com/de/kontakt/"
-                 />
+    <loc>http://ronkeinan.com/de/datenschutzerklaerung/</loc>
   </url>
   
   <url>
-    <loc>http://ronkeinan.com/en/credits/</loc>
-              <xhtml:link 
-                 rel="alternate"
-                 hreflang="de"
-                 href="http://www.ronkeinan.com/de/projekte/"
-                 />
+    <loc>http://ronkeinan.com/de/discography/discography/</loc>
   </url>
   
   <url>
-    <loc>http://ronkeinan.com/en/datenschutzerklaerung/</loc>
-              <xhtml:link 
-                 rel="alternate"
-                 hreflang="de"
-                 href="http://www.ronkeinan.com/de/datenschutzerklaerung/"
-                 />
+    <loc>http://ronkeinan.com/de/impressum/</loc>
   </url>
   
   <url>
-    <loc>http://ronkeinan.com/en/impressum/</loc>
-                  <xhtml:link 
-                 rel="alternate"
-                 hreflang="de"
-                 href="http://www.ronkeinan.com/de/impressum/"
-                 />
+    <loc>http://ronkeinan.com/de/kontakt/</loc>
   </url>
   
-
   <url>
-    <loc>http://ronkeinan.com/en/video/video/</loc>
-                  <xhtml:link 
-                 rel="alternate"
-                 hreflang="de"
-                 href="http://www.ronkeinan.com/de/video/video/"
-                 />
+    <loc>http://ronkeinan.com/de/projekte/</loc>
+  </url>
+  
+  <url>
+    <loc>http://ronkeinan.com/de/</loc>
+  </url>
+  
+  <url>
+    <loc>http://ronkeinan.com/de/video/video/</loc>
   </url>
   
 </urlset>
