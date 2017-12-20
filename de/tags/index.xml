@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Ron Keinan</title>
+    <link>http://ronkeinan.com/de/tags/</link>
+    <description>Recent content in Tags on Ron Keinan</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>de-de</language>
+    <copyright>Copyright  © 2017 Ron Keinan.</copyright>
+    
+	<atom:link href="http://ronkeinan.com/de/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+  </channel>
+</rss>

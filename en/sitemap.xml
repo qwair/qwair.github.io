@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  
-  <url>
-    <loc>http://ronkeinan.com/en/</loc>
-  </url>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
     <loc>http://ronkeinan.com/en/audio/audio/</loc>
+  </url>
+  
+  <url>
+    <loc>http://ronkeinan.com/en/audio/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://ronkeinan.com/en/categories/</loc>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -22,6 +29,11 @@
   </url>
   
   <url>
+    <loc>http://ronkeinan.com/en/discography/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>http://ronkeinan.com/en/discography/discography/</loc>
   </url>
   
@@ -31,10 +43,25 @@
   
   <url>
     <loc>http://ronkeinan.com/en/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://ronkeinan.com/en/</loc>
+  </url>
+  
+  <url>
+    <loc>http://ronkeinan.com/en/tags/</loc>
+    <priority>0</priority>
   </url>
   
   <url>
     <loc>http://ronkeinan.com/en/video/video/</loc>
+  </url>
+  
+  <url>
+    <loc>http://ronkeinan.com/en/video/</loc>
+    <priority>0</priority>
   </url>
   
 </urlset>

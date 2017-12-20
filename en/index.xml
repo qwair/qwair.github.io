@@ -7,7 +7,9 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Copyright © 2017 Ron Keinan.</copyright>
-    <atom:link href="http://ronkeinan.com/en/index.xml" rel="self" type="application/rss+xml" />
+    
+	<atom:link href="http://ronkeinan.com/en/index.xml" rel="self" type="application/rss+xml" />
+    
     
     <item>
       <title>Audio Links</title>
@@ -24,42 +26,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://ronkeinan.com/en/contact/</guid>
-      <description>&lt;p&gt;&lt;h2 class=&#34;intro-text text-center&#34;&gt;Contact me on social Networks
-                    &lt;/h2&gt;
-                    &lt;hr&gt;
-                    &lt;div class=&#34;text-center&#34;&gt;
-                        &lt;a class=&#34;socmed&#34; rel=&#34;nofollow&#34; href=&#34;https://www.facebook.com/ronkeinanmusic&#34;&gt;&lt;img src=&#34;http://ronkeinan.com/en/en/img/FB-f-Logo__blue_58.png&#34;&gt;&lt;/img&gt;&lt;/a&gt;
-                        &lt;a class=&#34;socmed&#34; rel=&#34;nofollow&#34; href=&#34;https://www.youtube.com/user/qwair&#34;&gt;&lt;img src=&#34;http://ronkeinan.com/en/en/img/youtube-logo.png&#34;&gt;&lt;/img&gt;&lt;/a&gt;
-                          &lt;a class=&#34;socmed&#34; rel=&#34;nofollow&#34; href=&#34;https://www.soundcloud.com/ronkeinan&#34;&gt;&lt;img src=&#34;http://ronkeinan.com/en/en/img/sc_gradient_96x48.png&#34;&gt;&lt;/img&gt;&lt;/a&gt;
-                      &lt;/div&gt;
-                      &lt;br /&gt;
-                      &lt;h2 class=&#34;intro-text text-center&#34;&gt;Contact me via email
-                    &lt;/h2&gt;
-                    &lt;hr&gt;
-                    &lt;p&gt;Contact me via email at &lt;a href=&#34;mailto:ron@ronkeinan.com&#34;&gt;ron@ronkeinan.com&lt;/a&gt; or the form below.
-                    &lt;form role=&#34;form&#34; action=&#34;https://formspree.io/ron@ronkeinan.com&#34;
-      method=&#34;POST&#34;&gt;
-                        &lt;div class=&#34;row&#34;&gt;
-                            &lt;div class=&#34;form-group col-lg-4&#34;&gt;
-                                &lt;label&gt;Name&lt;/label&gt;
-                                &lt;input type=&#34;text&#34; name=&#34;Name&#34; class=&#34;form-control&#34;&gt;
-                            &lt;/div&gt;
-                            &lt;div class=&#34;form-group col-lg-4&#34;&gt;
-                                &lt;label&gt;Email Address&lt;/label&gt;
-                                &lt;input type=&#34;email&#34; name=&#34;Email&#34; class=&#34;form-control&#34;&gt;
-                            &lt;/div&gt;
-                            &lt;div class=&#34;clearfix&#34;&gt;&lt;/div&gt;
-                            &lt;div class=&#34;form-group col-lg-12&#34;&gt;
-                                &lt;label&gt;Message&lt;/label&gt;
-                                &lt;textarea class=&#34;form-control&#34; name=&#34;Message&#34; rows=&#34;6&#34;&gt;&lt;/textarea&gt;
-                            &lt;/div&gt;
-                            &lt;div class=&#34;form-group col-lg-12&#34;&gt;
-                                &lt;input type=&#34;hidden&#34; name=&#34;save&#34; value=&#34;contact&#34;&gt;
-                                &lt;button type=&#34;submit&#34; value=&#34;Send&#34; class=&#34;btn btn-default&#34;&gt;Submit&lt;/button&gt;
-                            &lt;/div&gt;
-                        &lt;/div&gt;
-                    &lt;/form&gt;&lt;/p&gt;
-</description>
+      <description>Contact me on social Networks       Contact me via email   Contact me via email at ron@ronkeinan.com or the form below. Name  Email Address   Message   Submit</description>
     </item>
     
     <item>
@@ -68,40 +35,9 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://ronkeinan.com/en/credits/</guid>
-      <description>
-
-&lt;h2 id=&#34;partial-list-of-credits&#34;&gt;Partial List of Credits&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;p&gt;&lt;strong&gt;As Composer&lt;/strong&gt;&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;http://ronkeinan.com/en/en/discography/#riversedge&#34;&gt;&lt;em&gt;River&amp;rsquo;s Edge (2017)&lt;/em&gt;&lt;/a&gt; CD of my own works.&lt;/li&gt;
-&lt;li&gt;&lt;em&gt;Why Not? - Ron Keinan &amp;amp; the NDR Bigband (2015).&lt;/em&gt; CD of my own works.&lt;/li&gt;
-&lt;li&gt;&lt;em&gt;Meditation XVII&lt;/em&gt; (2015) for Mezzo Soprano, Guitar, Bass Guitar, Drum Set and Symphonic Orchestra, based on the text by John Donne.&lt;/li&gt;
-&lt;li&gt;Sonatas for single instruments and piano (flute, clarinet, cello, trombone).&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;&lt;strong&gt;As Arranger&lt;/strong&gt;&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;em&gt;Buggy Braune meets the HfMT Big band (2014).&lt;/em&gt; Arrangements of Jazz Pianist Buggy Braune&amp;rsquo;s pieces for Big band as part of the Elbjazz Festival.&lt;/li&gt;
-&lt;li&gt;Arrangements for Curtis Stigers at the Elbjazz Festival.&lt;/li&gt;
-&lt;li&gt;&lt;em&gt;Salsa Medley&lt;/em&gt; and &lt;em&gt;Chega de Saudade&lt;/em&gt; for classical percussionist &lt;a href=&#34;www.martingrubinger.com&#34;&gt;Martin Grubinger&lt;/a&gt;.&lt;/li&gt;
-&lt;li&gt;&lt;em&gt;Gal Tamir - Live Show&lt;/em&gt;. A Live show of a singer-songwriter.&lt;/li&gt;
-&lt;li&gt;Numerous Arrangements of Israeli popular music for the &lt;a href=&#34;http://english.isb7.co.il/&#34;&gt;Israeli Sinfonietta Be&amp;rsquo;er Sheva&lt;/a&gt; (Chamber Orchestra).&lt;/li&gt;
-&lt;li&gt;A Capella arrangements of Israeli popular songs for a chamber Choir (12 Singers), and for Barbershop Quartet.&lt;/li&gt;
-&lt;li&gt;Arrangements of jazz standards for classical musicians (classical Piano, Double Bass and solo instrument)&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;&lt;strong&gt;As Engineer/Producer&lt;/strong&gt;&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;em&gt;Olympics - Games of Passion (2016).&lt;/em&gt; CD By Wolf Kerschek (Composer &amp;amp; arranger), NDR Bigband, Session Strings and various Vocalists.&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;www.seminorossi.com&#34;&gt;&lt;em&gt;Amor, Semino Rossi (2015).&lt;/em&gt;&lt;/a&gt; CD of covers in Spanish and German by Argentinian-Austrian singer Semino Rossi. Produced by Humberto Gatica.&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-&lt;/ul&gt;
-</description>
+      <description>Partial List of Credits  As Composer
+ River&amp;rsquo;s Edge (2017) CD of my own works. Why Not? - Ron Keinan &amp;amp; the NDR Bigband (2015). CD of my own works. Meditation XVII (2015) for Mezzo Soprano, Guitar, Bass Guitar, Drum Set and Symphonic Orchestra, based on the text by John Donne. Sonatas for single instruments and piano (flute, clarinet, cello, trombone).  As Arranger
+ Buggy Braune meets the HfMT Big band (2014).</description>
     </item>
     
     <item>
@@ -110,17 +46,9 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://ronkeinan.com/en/datenschutzerklaerung/</guid>
-      <description>&lt;p&gt;&lt;h1&gt;Datenschutzerklärung:&lt;/h1&gt;
-&lt;p&gt;&lt;strong&gt;Datenschutz&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;Die Betreiber dieser Seiten nehmen den Schutz Ihrer persönlichen Daten sehr ernst. Wir behandeln Ihre personenbezogenen Daten vertraulich und entsprechend der gesetzlichen Datenschutzvorschriften sowie dieser Datenschutzerklärung.&lt;/p&gt; &lt;p&gt;Die Nutzung unserer Webseite ist in der Regel ohne Angabe personenbezogener Daten möglich. Soweit auf unseren Seiten personenbezogene Daten (beispielsweise Name, Anschrift oder E-Mail-Adressen) erhoben werden, erfolgt dies, soweit möglich, stets auf freiwilliger Basis. Diese Daten werden ohne Ihre ausdrückliche Zustimmung nicht an Dritte weitergegeben.&lt;/p&gt; &lt;p&gt;Wir weisen darauf hin, dass die Datenübertragung im Internet (z.B. bei der Kommunikation per E-Mail) Sicherheitslücken aufweisen kann. Ein lückenloser Schutz der Daten vor dem Zugriff durch Dritte ist nicht möglich.&lt;/p&gt;&lt;p&gt; &lt;/p&gt;
-&lt;!--&lt;p&gt;&lt;strong&gt;Datenschutzerklärung für die Nutzung von Facebook-Plugins (Like-Button)&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;Auf unseren Seiten sind Plugins des sozialen Netzwerks Facebook, Anbieter Facebook Inc., 1 Hacker Way, Menlo Park, California 94025, USA, integriert. Die Facebook-Plugins erkennen Sie an dem Facebook-Logo oder dem &#34;Like-Button&#34; (&#34;Gefällt mir&#34;) auf unserer Seite. Eine Übersicht über die Facebook-Plugins finden Sie hier: &lt;a href=&#34;http://developers.facebook.com/docs/plugins/&#34;&gt;http://developers.facebook.com/docs/plugins/&lt;/a&gt;.&lt;/p&gt; &lt;p&gt;Wenn Sie unsere Seiten besuchen, wird über das Plugin eine direkte Verbindung zwischen Ihrem Browser und dem Facebook-Server hergestellt. Facebook erhält dadurch die Information, dass Sie mit Ihrer IP-Adresse unsere Seite besucht haben. Wenn Sie den Facebook &#34;Like-Button&#34; anklicken während Sie in Ihrem Facebook-Account eingeloggt sind, können Sie die Inhalte unserer Seiten auf Ihrem Facebook-Profil verlinken. Dadurch kann Facebook den Besuch unserer Seiten Ihrem Benutzerkonto zuordnen. Wir weisen darauf hin, dass wir als Anbieter der Seiten keine Kenntnis vom Inhalt der übermittelten Daten sowie deren Nutzung durch Facebook erhalten. Weitere Informationen hierzu finden Sie in der Datenschutzerklärung von Facebook unter &lt;a href=&#34;http://de-de.facebook.com/policy.php&#34;&gt;http://de-de.facebook.com/policy.php&lt;/a&gt;.&lt;/p&gt; &lt;p&gt;&lt;a href=&#34;http://de-de.facebook.com/policy.php&#34;&gt;&lt;/a&gt;Wenn Sie nicht wünschen, dass Facebook den Besuch unserer Seiten Ihrem Facebook- Nutzerkonto zuordnen kann, loggen Sie sich bitte aus Ihrem Facebook-Benutzerkonto aus.&lt;/p&gt;&lt;p&gt; &lt;/p&gt; --&gt;
-&lt;p&gt;&lt;strong&gt;Datenschutzerklärung für die Nutzung von Google Analytics&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;Diese Website nutzt Funktionen des  Webanalysedienstes Google Analytics. Anbieter ist die Google Inc. 1600 Amphitheatre Parkway Mountain View, CA 94043, USA. Google Analytics verwendet sog. &amp;ldquo;Cookies&amp;rdquo;. Das sind Textdateien, die auf Ihrem Computer gespeichert werden und die eine Analyse der Benutzung der Website durch Sie ermöglichen. Die durch den Cookie erzeugten Informationen über Ihre Benutzung dieser Website werden in der Regel an einen Server von Google in den USA übertragen und dort gespeichert.&lt;/p&gt; &lt;p&gt;Im Falle der Aktivierung der IP-Anonymisierung auf dieser Webseite wird Ihre IP-Adresse von Google jedoch innerhalb von Mitgliedstaaten der Europäischen Union oder in anderen Vertragsstaaten des Abkommens über den Europäischen Wirtschaftsraum zuvor gekürzt. Nur in Ausnahmefällen wird die volle IP-Adresse an einen Server von Google in den USA übertragen und dort gekürzt. Im Auftrag des Betreibers dieser Website wird Google diese Informationen benutzen, um Ihre Nutzung der Website auszuwerten, um Reports über die Websiteaktivitäten zusammenzustellen und um weitere mit der Websitenutzung und der Internetnutzung verbundene Dienstleistungen gegenüber dem Websitebetreiber zu erbringen. Die im Rahmen von Google Analytics von Ihrem Browser übermittelte IP-Adresse wird nicht mit anderen Daten von Google zusammengeführt.&lt;/p&gt; &lt;p&gt;Sie können die Speicherung der Cookies durch eine entsprechende Einstellung Ihrer Browser-Software verhindern; wir weisen Sie jedoch darauf hin, dass Sie in diesem Fall gegebenenfalls nicht sämtliche Funktionen dieser Website vollumfänglich werden nutzen können. Sie können darüber hinaus die Erfassung der durch das Cookie erzeugten und auf Ihre Nutzung der Website bezogenen Daten (inkl. Ihrer IP-Adresse) an Google sowie die Verarbeitung dieser Daten durch Google verhindern, indem sie das unter dem folgenden Link verfügbare Browser-Plugin herunterladen und installieren: &lt;a href=&#34;http://tools.google.com/dlpage/gaoptout?hl=de&#34; &gt;http://tools.google.com/dlpage/gaoptout?hl=de&lt;/a&gt;&lt;/p&gt;&lt;p&gt; &lt;/p&gt;
-&lt;!--&lt;p&gt;&lt;strong&gt;Datenschutzerklärung für die Nutzung von Google +1&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;Unsere Seiten nutzen Funktionen von Google +1. Anbieter ist die Google Inc. 1600 Amphitheatre Parkway Mountain View, CA 94043,  USA.&lt;/p&gt; &lt;p&gt;Erfassung und Weitergabe von Informationen: Mithilfe der Google +1-Schaltfläche können Sie Informationen weltweit veröffentlichen. über die Google +1-Schaltfläche erhalten Sie und andere Nutzer personalisierte Inhalte von Google und unseren Partnern. Google speichert sowohl die Information, dass Sie für einen Inhalt +1 gegeben haben, als auch Informationen über die Seite, die Sie beim Klicken auf +1 angesehen haben. Ihre +1 können als Hinweise zusammen mit Ihrem Profilnamen und Ihrem Foto in Google-Diensten, wie etwa in Suchergebnissen oder in Ihrem Google-Profil, oder an anderen Stellen auf Websites und Anzeigen im Internet eingeblendet werden. Google zeichnet Informationen über Ihre +1-Aktivitäten auf, um die Google-Dienste für Sie und andere zu verbessern. Um die Google +1-Schaltfläche verwenden zu können, benötigen Sie ein weltweit sichtbares, öffentliches Google-Profil, das zumindest den für das Profil gewählten Namen enthalten muss. Dieser Name wird in allen Google-Diensten verwendet. In manchen Fällen kann dieser Name auch einen anderen Namen ersetzen, den Sie beim Teilen von Inhalten über Ihr Google-Konto verwendet haben. Die Identität Ihres Google- Profils kann Nutzern angezeigt werden, die Ihre E-Mail-Adresse kennen oder über andere identifizierende Informationen von Ihnen verfügen.&lt;/p&gt; &lt;p&gt;Verwendung der erfassten Informationen: Neben den oben erläuterten Verwendungszwecken werden die von Ihnen bereitgestellten Informationen gemäß den geltenden Google-Datenschutzbestimmungen genutzt. Google veröffentlicht möglicherweise zusammengefasste Statistiken über die +1-Aktivitäten der Nutzer bzw. gibt diese an Nutzer und Partner weiter, wie etwa Publisher, Inserenten oder verbundene Websites.&lt;/p&gt;&lt;p&gt; &lt;/p&gt; --&gt;
-&lt;p&gt;&lt;strong&gt;Datenschutzerklärung für die Nutzung von YouTube&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;Unsere Webseite nutzt Plugins der von Google betriebenen Seite YouTube. Betreiber der Seiten ist die YouTube, LLC, 901 Cherry Ave., San Bruno, CA 94066, USA. Wenn Sie eine unserer mit einem YouTube-Plugin ausgestatteten Seiten besuchen, wird eine Verbindung zu den Servern von YouTube hergestellt. Dabei wird dem Youtube-Server mitgeteilt, welche unserer Seiten Sie besucht haben.&lt;br /&gt; Wenn Sie in Ihrem YouTube-Account eingeloggt sind ermöglichen Sie YouTube, Ihr Surfverhalten direkt Ihrem persönlichen Profil zuzuordnen. Dies können Sie verhindern, indem Sie sich aus Ihrem YouTube-Account ausloggen.&lt;/p&gt; &lt;p&gt;Weitere Informationen zum Umgang von Nutzerdaten finden Sie in der Datenschutzerklärung von YouTube unter &lt;a href=&#34;https://www.google.de/intl/de/policies/privacy&#34;&gt;https://www.google.de/intl/de/policies/privacy&lt;/a&gt;&lt;/p&gt;&lt;p&gt; &lt;/p&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Datenschutzerklärung für die Nutzung von SoundCloud&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;
-Auf unseren Seiten sind Funktionen des Dienstes SoundCloud eingebunden. Diese werden angeboten durch die SoundCloud Ltd., Companies House, Crown May, Maindy, Cardiff CF14 3UZ, United Kingdom. Durch das Benutzen von SoundCloud-Funktionen, bspw. das Abspielen von Musik und das Hinterlassen von Kommentaren, werden Daten, auch in Zusammenhang mit einem evtl. vorhandenen SoundCloud-Accounts, an SoundCloud übertragen. Wir weisen darauf hin, dass wir als Anbieter der Seiten keine Kenntnis vom Inhalt der übermittelten Daten sowie deren Nutzung durch SoundCloud erhalten. Weitere Informationen hierzu finden Sie in der Datenschutzerklärung von SoundCloud unter &lt;a href=&#34;&#34;&gt;http://soundcloud.com/pages/privacyhttp://soundcloud.com/pages/privacy&lt;/a&gt;. Ihre Datenschutzeinstellungen bei SoundCloud können Sie in den Konto-Einstellungen unter &lt;a href=&#34;http://soundcloud.com/settings/&#34;&gt;http://soundcloud.com/settings/&lt;/a&gt; anpassen.
-&lt;p&gt;&lt;strong&gt;Widerspruch Werbe-Mails&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;Der Nutzung von im Rahmen der Impressumspflicht veröffentlichten Kontaktdaten zur Übersendung von nicht ausdrücklich angeforderter Werbung und Informationsmaterialien wird hiermit widersprochen. Die Betreiber der Seiten behalten sich ausdrücklich rechtliche Schritte im Falle der unverlangten Zusendung von Werbeinformationen, etwa durch Spam-E-Mails, vor.&lt;/p&gt;&lt;p&gt; &lt;/p&gt;
-</description>
+      <description>Datenschutzerklärung: Datenschutz
+Die Betreiber dieser Seiten nehmen den Schutz Ihrer persönlichen Daten sehr ernst. Wir behandeln Ihre personenbezogenen Daten vertraulich und entsprechend der gesetzlichen Datenschutzvorschriften sowie dieser Datenschutzerklärung.
+Die Nutzung unserer Webseite ist in der Regel ohne Angabe personenbezogener Daten möglich. Soweit auf unseren Seiten personenbezogene Daten (beispielsweise Name, Anschrift oder E-Mail-Adressen) erhoben werden, erfolgt dies, soweit möglich, stets auf freiwilliger Basis. Diese Daten werden ohne Ihre ausdrückliche Zustimmung nicht an Dritte weitergegeben.</description>
     </item>
     
     <item>
@@ -138,18 +66,12 @@ Auf unseren Seiten sind Funktionen des Dienstes SoundCloud eingebunden. Diese we
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://ronkeinan.com/en/impressum/</guid>
-      <description>&lt;p&gt;&lt;h4&gt;Angaben gemäß § 5 TMG:&lt;/h4&gt;
-&lt;p&gt;Ron Keinan&lt;br /&gt;
-Komponist und Arrangeur&lt;br /&gt;
-Opm Blockhorn 8b&lt;br /&gt;
-22869 Schenefeld
-&lt;/p&gt;
-&lt;h4&gt;Kontakt:&lt;/h4&gt;
-&lt;p&gt;Telefon: +49 17669551685&lt;br /&gt;
-E-Mail: ron@ronkeinan.com&lt;/p&gt;
-&lt;h4&gt;Umsatzsteuer-ID:&lt;/h4&gt;
-&lt;p&gt;Umsatzsteuer-Identifikationsnummer gemäß §27 a Umsatzsteuergesetz: &lt;br /&gt; 46 165 702 357&lt;/p&gt;&lt;/p&gt;
-</description>
+      <description>Angaben gemäß § 5 TMG: Ron Keinan
+Komponist und Arrangeur
+Opm Blockhorn 8b
+22869 Schenefeld Kontakt: Telefon: +49 17669551685
+E-Mail: ron@ronkeinan.com
+Umsatzsteuer-ID: Umsatzsteuer-Identifikationsnummer gemäß §27 a Umsatzsteuergesetz: 46 165 702 357</description>
     </item>
     
     <item>
@@ -158,14 +80,7 @@ E-Mail: ron@ronkeinan.com&lt;/p&gt;
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://ronkeinan.com/en/</guid>
-      <description>&lt;p&gt;My name is &lt;strong&gt;Ron Keinan&lt;/strong&gt;. I&#39;m a composer, arranger and producer, currently based in Hamburg, Germany. I was born in Haifa, Israel, to a family of immigrants from Brazil. I studied the classical Double Bass under Mr. Michael Klinghoffer and got my B.Mus in classical Composition under Prof. Mark Kopytman in the Jerusalem Academy of Music and Dance. Later I moved to Germany and continued my studies in Jazz Composition under Prof. Wolf Kerschek in the Hochschule für Musik und Theater Hamburg.&lt;/p&gt;  
-
-&lt;p id=&#34;composer&#34;&gt;&lt;strong&gt;As a composer,&lt;/strong&gt; I was educated in both the Classical and Jazz traditions. My compositions range from small chamber works to orchestral works, written for jazz musicians as well as  for classically trained musicians, for professionals and for amateurs. My music has been described as clear, communicative and direct.&lt;/p&gt; 
-
-&lt;p id=&#34;arranger&#34;&gt;&lt;strong&gt;I have arranged&lt;/strong&gt; music in diverse genres, both for live and for the studio. I like writing to the strengths of the musicians and the particular requirements of the piece. Most of all, I enjoy working with Singers, Songwriters and Bands to create together the kind of sound they envision.&lt;/p&gt;  
-
-&lt;p id=&#34;producer&#34;&gt;&lt;strong&gt;Working as a producer&lt;/strong&gt; and an engineer was a natural process for me, after arranging for the studio. Getting to know not only the instruments and musicians, but various microphones and their positioning, recording and mixing techniques, as well as MIDI programming is in my view an inseparable part of being a modern arranger. &lt;/p&gt;  
-</description>
+      <description>My name is Ron Keinan. I&#39;m a composer, arranger and producer, currently based in Hamburg, Germany. I was born in Haifa, Israel, to a family of immigrants from Brazil. I studied the classical Double Bass under Mr. Michael Klinghoffer and got my B.Mus in classical Composition under Prof. Mark Kopytman in the Jerusalem Academy of Music and Dance. Later I moved to Germany and continued my studies in Jazz Composition under Prof.</description>
     </item>
     
     <item>
